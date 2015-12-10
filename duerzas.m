@@ -11,31 +11,7 @@ for t6 = 0:100/6:400
     w4=-2*t5+3*t4;
     w5=3*t6;
     w6=t5+t6;
- if w1==0
+ if w1==0&w2==0 & w3==0&w4==0&w5==0&w6==0
         c=c+1
 
  end
- if w2==0
-     d=c
- end
- if w3==0
-     e=c
- end 
- if w4==0
-     i=c
- end 
- if w5==0
-     a=c
- end
- if w6==0
-     r=c
- end 
-    
-       
-    
-end
-end
-end
-end
-end
-end
