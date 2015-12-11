@@ -1,3 +1,4 @@
+fprintf('sergio loaiza gomez\n proyeto final #1\n programacion\nfuerzas')
 c=0
 for t1=0:100:2400
 for t2 = 0:100:2400
